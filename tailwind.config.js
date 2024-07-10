@@ -7,7 +7,7 @@ module.exports = {
         custom: "0 0 0 5px #c7c3c8",
       },
       backgroundImage: {
-        'main-bg': "url('/src/assets/img/logo.png')",
+        'main-bg': "url('./src/assets/img/logo.png')",
       },
       colors: {
         black: "#000000",
