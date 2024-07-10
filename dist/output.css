@@ -1952,7 +1952,7 @@ ol {
 }
 
 .bg-main-bg {
-  background-image: url('/src/assets/img/logo.png');
+  background-image: url('./src/assets/img/logo.png');
 }
 
 .decoration-slice {
